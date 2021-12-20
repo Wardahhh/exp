@@ -25,9 +25,9 @@ def calculate():          # Function to calculate the given statement
         print("Sequence of 1's are: ", one)
         print(end="\n")
 
-
+a = input()
 print(calculate())
-print("helloooo")
+print("helloooohkjl"+str(2))
 print("sssss")
 
 #print(calculate(34))

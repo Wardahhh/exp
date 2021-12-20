@@ -27,5 +27,7 @@ def calculate():          # Function to calculate the given statement
 
 
 print(calculate())
+print("helloooo")
+print("sssss")
 
 #print(calculate(34))
